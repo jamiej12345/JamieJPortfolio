@@ -7,7 +7,7 @@ const NotFound = () => {
         <h3 className='text-9xl mb-8 antialiased font-bold text-accent'>
           Oops!
         </h3>
-        <h3 className='text-4xl mb-8 antialiased text-accent'>
+        <h3 className='text-4xl mb-8 antialiased text-accent text-center'>
           Cant seem to find the page you&apos;re looking for.
         </h3>
         <h3 className='text-2xl mb-8 antialiased text-accent'>

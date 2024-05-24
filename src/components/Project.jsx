@@ -122,7 +122,7 @@ const Project = () => {
         </p>
         <h3 className='text-2xl text-accent mt-10'>Solutions </h3>
         <p className='py-3 w-full text-amber-50'>
-          <p className='mb-3'>
+          <p className='mb-3 text-warning'>
             Utilizing AdminJS for Content Management and Moderation
           </p>
           <p className='mb-3'>
@@ -165,6 +165,43 @@ const Project = () => {
             content within the application.
           </p>
         </p>
+
+        <h3 className='text-2xl text-accent mt-10'>Continuing On </h3>
+        <p className='py-3 w-full text-amber-50'>
+          <p className='py-3 w-full text-amber-50 text-warning'>
+            Integration of Jest
+          </p>
+          <p className='mb-3'>
+            Incorporating Jest into my application offers several advantages
+            that enhance the overall development process. Jest is a
+            comprehensive testing framework for JavaScript, designed to ensure
+            the correctness of any JavaScript codebase. Here are the key reasons
+            why Jest is suitable for this project:
+          </p>{' '}
+          <div className='py-3 px-3'>
+            <p className='mb-3'>
+              <span className='text-accent font-bold'>Ease of Use:</span> Jest
+              is known for its simplicity and ease of configuration. It allows
+              developers to write tests with minimal setup, making it accessible
+              even for those who are new to testing frameworks.
+            </p>{' '}
+            <p className='mb-3'>
+              <span className='text-accent font-bold'>Fast and Efficient:</span>{' '}
+              Jest runs tests in parallel, which speeds up the testing process
+              significantly. This efficiency is particularly beneficial for
+              larger codebases, ensuring that tests complete quickly without
+              compromising accuracy.
+            </p>{' '}
+            <p className='mb-3'>
+              <span className='text-accent font-bold'>Snapshot Testing:</span>{' '}
+              One of Jest's standout features is snapshot testing. This is
+              especially useful for React applications, as it allows developers
+              to capture the rendered output of components and compare them over
+              time, ensuring that UI changes are intentional and not accidental.
+            </p>
+          </div>
+        </p>
+
         <div className='mb-5'>
           <h3 className='text-2xl text-accent mt-10'>Outcome </h3>
           <p className='py-3 w-full text-amber-50'>

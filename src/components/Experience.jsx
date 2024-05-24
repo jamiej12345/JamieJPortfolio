@@ -13,8 +13,8 @@ const Experience = () => {
         </div>
 
         <div className='py-4 px-4 w-10/12 h-fit'>
-          <div className='collapse-title text-1xl text-amber-50 -z-10'>
-            InvestCloud - March 2022 / March 2024
+          <div className='collapse-title text-1xl font-bold text-amber-50 -z-10'>
+            InvestCloud - Frontend Developer - March 2022 / March 2024
           </div>
 
           <p className='py-3'>
@@ -46,8 +46,8 @@ const Experience = () => {
             </ul>
           </p>
 
-          <div className='collapse-title text-1xl text-amber-50 -z-10'>
-            learn search discover - May 2024
+          <div className='collapse-title text-1xl font-bold text-amber-50 -z-10'>
+            learn search discover - MERN - May 2024
           </div>
           <div className='py-3 px-4 -z-10'>
             <p>
