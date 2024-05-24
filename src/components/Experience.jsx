@@ -17,33 +17,33 @@ const Experience = () => {
             InvestCloud - March 2022 / March 2024
           </div>
 
-          <p className='px-4 py-2'>
-            • Skilled in developing and maintaining Frontend components for
-            web-based applications, mobile apps and websites.
-          </p>
-
-          <p className='px-4 py-2'>
-            • Experienced in prototyping and proof-of-concept(POC) development,
-            with deep expertise in cross-browser optimisation, performance
-            optimisation, and Web Content Accessibility Guidelines (WCAG) 2.0
-            compliance.
-          </p>
-
-          <p className='px-4 py-2'>
-            • Proficient in project estimation, conducting interviews, knowledge
-            transfer, and training and developing new hires.
-          </p>
-
-          <p className='px-4 py-2'>
-            • Collaborated with a team of developers to successfully complete
-            120 screens and components within a two-week deadline, achieving
-            what had never been done before at InvestCloud.
-          </p>
-
-          <p className='px-4 py-2'>
-            • Resolved multiple critical bugs and implemented enhancements in
-            web applications, significantly boosting functionality and
-            performance.
+          <p className='py-3'>
+            <ul class='marker:text-accent list-disc pl-5 space-y-3 text-amber-50'>
+              <li>
+                Skilled in developing and maintaining Frontend components for
+                web-based applications, mobile apps and websites.
+              </li>
+              <li>
+                Experienced in prototyping and proof-of-concept(POC)
+                development, with deep expertise in cross-browser optimisation,
+                performance optimisation, and Web Content Accessibility
+                Guidelines (WCAG) 2.0 compliance.
+              </li>
+              <li>
+                Proficient in project estimation, conducting interviews,
+                knowledge transfer, and training and developing new hires.
+              </li>
+              <li>
+                Collaborated with a team of developers to successfully complete
+                120 screens and components within a two-week deadline, achieving
+                what had never been done before at InvestCloud.
+              </li>
+              <li>
+                Resolved multiple critical bugs and implemented enhancements in
+                web applications, significantly boosting functionality and
+                performance.
+              </li>
+            </ul>
           </p>
 
           <div className='collapse-title text-1xl text-amber-50 -z-10'>
