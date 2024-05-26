@@ -18,8 +18,8 @@ const Home = () => {
           </p>
           <p className='py-3'>
             My expertise encompasses all aspects of Frontend development,
-            specifically React, React Hooks, JavaScript, TailwindCSS, and
-            DaisyUI.
+            specifically React, React Hooks, JavaScript, HTML5, CSS3, SASS,
+            TailwindCSS, and DaisyUI.
           </p>
 
           <p className='py-3'>

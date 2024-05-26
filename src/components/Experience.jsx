@@ -16,6 +16,13 @@ const Experience = () => {
           <div className='collapse-title text-1xl font-bold text-amber-50 -z-10'>
             InvestCloud - Frontend Developer - March 2022 / March 2024
           </div>
+          <p>
+            As a frontend developer, I have created client and advisor web
+            portals for some of the largest financial corporations in the world.
+            My work has included projects for prominent clients such as
+            Rathbones, RBC (Royal Bank of Canada), HSBC, Vermeer, EFG
+            International, and Lloyds of London.
+          </p>
 
           <p className='py-3'>
             <ul class='marker:text-accent list-disc pl-5 space-y-3 text-amber-50'>
